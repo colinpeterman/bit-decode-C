@@ -1,0 +1,22 @@
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE STRICTLY ADHERED TO THE TENURES OF THE OHIO STATE UNIVERSITY’S ACADEMIC INTEGRITY POLICY WITH RESPECT TO THIS ASSIGNMENT.
+
+THIS IS THE README FILE FOR LAB 2.
+
+Colin Peterman
+
+1. I spent around 3:30 on Lab2
+
+2. I struggled to get my file to output the correctly decoded message rather than question marks. I was finnally able to fix this issue by changing my user input to and int to allow for enough bits which solved my whole issue. I noticed that creating the key and getting it correct was the essesntial to lab 2. 
+
+4. This is what my key looked like when running GDB on bit_decode2 with input 1010
+
+0
+1
+2
+5
+10
+170
+
+is what my binary_key printed out when I ran GDB with a break at the main. 
+
+5. I did not run this. 
